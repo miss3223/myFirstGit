@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 Runoob test
+=======
+Runoob Git
+>>>>>>> feature1
 ceshi
 biancheng
 git has s mutable index called stage.
 git is a software.
+<<<<<<< HEAD
 Creating a new branch is quick &simple.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> feature1
